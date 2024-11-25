@@ -24,3 +24,8 @@ result = sum((ord(c) - ord('A') + 10
 
 print(result)
 '''
+
+'''
+n, b = input().split()
+print(int(n, int(b)))
+'''
